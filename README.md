@@ -1,2 +1,0 @@
-# NeuroStartUp
-Task 1
