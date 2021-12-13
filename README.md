@@ -14,5 +14,6 @@
 #### Установка при помощи CDN
 Если вы хотите подключить только CSS(безJavaScript-плагинов),добавьте в ваши html-файлы следующий код: ```html<linkrel="stylesheet"href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"integrity="sha284-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkF0JwJ8ERdknLPMO"crossorigin="anonymous">```
 Для JavaScript необходимо добавить следующий код:
+
 ## Использование
 Все возможности по использованию описаны в официальной документации.
